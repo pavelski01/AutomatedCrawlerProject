@@ -14,3 +14,5 @@ C:\Users\patricius\Documents\Visual Studio 2015\Projects\AutomatedCrawlerProject
 C:\Users\patricius\Documents\Visual Studio 2015\Projects\AutomatedCrawlerProject\AutomatedCrawlerProject\obj\Debug\AutomatedCrawlerProject.exe
 C:\Users\patricius\Documents\Visual Studio 2015\Projects\AutomatedCrawlerProject\AutomatedCrawlerProject\obj\Debug\AutomatedCrawlerProject.xml
 C:\Users\patricius\Documents\Visual Studio 2015\Projects\AutomatedCrawlerProject\AutomatedCrawlerProject\obj\Debug\AutomatedCrawlerProject.pdb
+C:\Users\patricius\Documents\Visual Studio 2015\Projects\AutomatedCrawlerProject\AutomatedCrawlerProject\obj\Debug\Interop.SHDocVw.dll
+C:\Users\patricius\Documents\Visual Studio 2015\Projects\AutomatedCrawlerProject\AutomatedCrawlerProject\obj\Debug\AutomatedCrawlerProject.vbproj.ResolveComReference.cache
