@@ -1,0 +1,16 @@
+C:\Users\patricius\Documents\Visual Studio 2015\Projects\AutomatedCrawlerProject\AutomatedCrawlerProject\bin\Debug\AutomatedCrawlerProject.exe.config
+C:\Users\patricius\Documents\Visual Studio 2015\Projects\AutomatedCrawlerProject\AutomatedCrawlerProject\bin\Debug\AutomatedCrawlerProject.exe
+C:\Users\patricius\Documents\Visual Studio 2015\Projects\AutomatedCrawlerProject\AutomatedCrawlerProject\bin\Debug\AutomatedCrawlerProject.pdb
+C:\Users\patricius\Documents\Visual Studio 2015\Projects\AutomatedCrawlerProject\AutomatedCrawlerProject\bin\Debug\AutomatedCrawlerProject.xml
+C:\Users\patricius\Documents\Visual Studio 2015\Projects\AutomatedCrawlerProject\AutomatedCrawlerProject\obj\Debug\AutomatedCrawlerProject.vbprojResolveAssemblyReference.cache
+C:\Users\patricius\Documents\Visual Studio 2015\Projects\AutomatedCrawlerProject\AutomatedCrawlerProject\obj\Debug\MainWindow.g.vb
+C:\Users\patricius\Documents\Visual Studio 2015\Projects\AutomatedCrawlerProject\AutomatedCrawlerProject\obj\Debug\Application.g.vb
+C:\Users\patricius\Documents\Visual Studio 2015\Projects\AutomatedCrawlerProject\AutomatedCrawlerProject\obj\Debug\AutomatedCrawlerProject_MarkupCompile.cache
+C:\Users\patricius\Documents\Visual Studio 2015\Projects\AutomatedCrawlerProject\AutomatedCrawlerProject\obj\Debug\AutomatedCrawlerProject_MarkupCompile.lref
+C:\Users\patricius\Documents\Visual Studio 2015\Projects\AutomatedCrawlerProject\AutomatedCrawlerProject\obj\Debug\MainWindow.baml
+C:\Users\patricius\Documents\Visual Studio 2015\Projects\AutomatedCrawlerProject\AutomatedCrawlerProject\obj\Debug\AutomatedCrawlerProject.g.resources
+C:\Users\patricius\Documents\Visual Studio 2015\Projects\AutomatedCrawlerProject\AutomatedCrawlerProject\obj\Debug\AutomatedCrawlerProject.Resources.resources
+C:\Users\patricius\Documents\Visual Studio 2015\Projects\AutomatedCrawlerProject\AutomatedCrawlerProject\obj\Debug\AutomatedCrawlerProject.vbproj.GenerateResource.Cache
+C:\Users\patricius\Documents\Visual Studio 2015\Projects\AutomatedCrawlerProject\AutomatedCrawlerProject\obj\Debug\AutomatedCrawlerProject.exe
+C:\Users\patricius\Documents\Visual Studio 2015\Projects\AutomatedCrawlerProject\AutomatedCrawlerProject\obj\Debug\AutomatedCrawlerProject.xml
+C:\Users\patricius\Documents\Visual Studio 2015\Projects\AutomatedCrawlerProject\AutomatedCrawlerProject\obj\Debug\AutomatedCrawlerProject.pdb
