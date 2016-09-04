@@ -26,7 +26,9 @@ Namespace Helper
             End While
             Return document.getElementById(id)
         End Function
-        Public Function GetHtmlElementsByClass(document As HTMLDocument, tag As String, clazzName As String) As List(Of IHTMLElement)
+        Public Function GetHtmlElementsByClass(
+            document As HTMLDocument, tag As String, clazzName As String
+        ) As List(Of IHTMLElement)
             While document.getElementsByTagName(tag) Is Nothing
                 Thread.Sleep(100)
             End While
